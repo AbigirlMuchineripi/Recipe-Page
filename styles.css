@@ -198,6 +198,11 @@ a:any-link{
     color:var(--BROWN);
     margin-right: 16px;
 }
+.instructions__ol li p {
+  width: 250px;
+  font: var(--TEXT-PRESET-4);
+  color: var(--STONE-600);
+}
 .line{
     width: 100%; 
     height: 1px;
