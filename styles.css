@@ -125,6 +125,9 @@ a:any-link{
     color:var(--ROSE-800);
     margin-bottom: 16px;
 }
+.preparation__ul,
+.ingredients__ul{
+    list-style:none}
 .preparation__ul li:first-child p{
     width: 215px
 }
