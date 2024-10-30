@@ -231,9 +231,7 @@ a:any-link{
     width:100%;
     gap:16px;
 }
-.flex-table-row :last-child{
-    border-bottom: 0px solid var(--STONE-150);
-}
+
 .nutrient{
     font:var(--TEXT-PRESET-4);
     color:var(--STONE-600);
