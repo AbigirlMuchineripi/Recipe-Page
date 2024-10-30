@@ -243,7 +243,11 @@ a:any-link{
     color:var(--BROWN);
     width:115.5px;
 }
-
+.nutrition__subtext {
+  font: var(--TEXT-PRESET-4);
+  color: var(--STONE-600);
+  margin-bottom: 24px;
+}
 /*Tablet */
 @media  screen and (min-width:768px) {
     body{
