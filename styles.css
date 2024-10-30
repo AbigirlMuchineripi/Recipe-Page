@@ -144,7 +144,7 @@ a:any-link{
 }
 .preparation_ul li::before,
 .ingredients__ul li::before{
-    content:"";
+    content:"•";
     font-size:24px;
     color: var(--ROSE-800);
     margin-right: 16px;
