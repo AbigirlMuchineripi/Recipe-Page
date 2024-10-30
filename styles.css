@@ -125,11 +125,11 @@ a:any-link{
     color:var(--ROSE-800);
     margin-bottom: 16px;
 }
-.preparation_ul li:first-child p{
+.preparation__ul li:first-child p{
     width: 215px
 }
 
-.preparation_ul li,
+.preparation__ul li,
 .ingredients__ul li{
     display: flex;
     align-items: center;
@@ -138,11 +138,11 @@ a:any-link{
     color: var(--STONE-600);
 }
 
-.preparation_ul li :last-child,
+.preparation__ul li :last-child,
 .ingredients__ul li :last-child{
     margin-bottom:0px;
 }
-.preparation_ul li::before,
+.preparation__ul li::before,
 .ingredients__ul li::before{
     content:"•";
     font-size:24px;
@@ -268,7 +268,7 @@ a:any-link{
 .text-content__preparation{
     height:172px;
 }
-.preparation_ul li:first-child p{
+.preparation__ul li:first-child p{
     width:100%;
 }
 
