@@ -198,6 +198,9 @@ a:any-link{
     color:var(--BROWN);
     margin-right: 16px;
 }
+.line{
+    color:grey;
+}
 
 /* ||NUTRITION*/
 .nutrition__title{
